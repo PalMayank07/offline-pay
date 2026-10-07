@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfflinePay.Api", "OfflinePay.Api\OfflinePay.Api.csproj", "{94768433-E38B-4CD9-A57B-0D55DE43571F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94768433-E38B-4CD9-A57B-0D55DE43571F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94768433-E38B-4CD9-A57B-0D55DE43571F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94768433-E38B-4CD9-A57B-0D55DE43571F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94768433-E38B-4CD9-A57B-0D55DE43571F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCD2B38-D0C6-4487-A49B-5AD133B25B2B}
+	EndGlobalSection
+EndGlobal

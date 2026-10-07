@@ -20,5 +20,11 @@ dist-ssr
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
 *.sw?
+
+# .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.userosscache
